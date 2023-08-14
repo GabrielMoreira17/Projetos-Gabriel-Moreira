@@ -63,7 +63,7 @@ body{
   width: auto;
   background-color: gray;
   padding: 20px;
-  margin-left: 20px;
+  margin-left: 40px;
   background-color: transparent;  
 }
 
@@ -73,6 +73,16 @@ padding: 10px;
   height: 110px;
   cursor: pointer;
 }
+
+.navbar h4{
+  margin-top: 8px;
+  margin: 8px;
+  width: 400px;
+  height: 4px;
+  margin-left: -250px;
+  font-size: 30px;
+}
+
 .pod{
   color: white;
   display: flex;
