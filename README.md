@@ -1,1 +1,1 @@
-Projetos Pessoais desenvolvidos em liguagens como: HTML, CSS E JAVASCRIPT
+Projetos Pessoais desenvolvidos em liguagens como: HTML, CSS, JAVASCRIPT e C.
